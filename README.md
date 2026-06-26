@@ -91,8 +91,6 @@ The objective of this project is to:
 
 # 📊 Dashboard Preview
 
-> Replace the image below with your dashboard screenshot.
-
 ![Dashboard](Home-Dashboard.png)
 
 ---
@@ -188,17 +186,6 @@ blinkit-sales-analysis-powerbi/
 - Professional dashboard design.
 - Optimized DAX measures.
 - Clean and structured data model.
-
----
-
-# 📌 Future Improvements
-
-- Add Profit Analysis
-- Add Monthly Sales Trend
-- Customer Segmentation
-- Forecasting using Power BI
-- Drill-through Reports
-- Mobile Layout Optimization
 
 ---
 
