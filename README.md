@@ -4,7 +4,6 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Home-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
